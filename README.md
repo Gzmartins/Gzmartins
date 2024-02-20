@@ -7,8 +7,8 @@ Although I may be at the beginning of my journey, I welcome opportunities for co
 
 <div align="center">
   <a href="https://github.com/Gzmartins">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Gzmartins&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gzmartins&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://luk4x-github-readme-stats.vercel.app/api?username=Gzmartins&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=Status%20do%20Github&cache_seconds=14400"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gzmartins&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div align="center">
