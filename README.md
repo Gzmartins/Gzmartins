@@ -1,9 +1,7 @@
 ### Hi, I'm Guilherme, welcome to my profile 👋
-I am a beginner in the field of programming. At 17 years old, I currently live in the city of Rio de Janeiro, Brazil. My journey has just begun and I am immersed in HTML, CSS and JavaScript languages.
+I'm an 19-year-old programming enthusiast from Rio de Janeiro, Brazil, currently studying Analysis and Systems Development and working on real-world projects that involve Python, SQL, HTML, CSS and JavaScript.
 
-In the ever-evolving technology landscape, my eyes are set on expanding my Front-end experience and delving deeper into the art of creating captivating user interfaces. At the same time, I am cultivating aspirations to carve out my niche in the dynamic field of design.
-
-Although I may be at the beginning of my journey, I welcome opportunities for collaboration and learning.
+My journey began with a curiosity for how websites and systems work, and today, I'm building solid foundations in both Front-end development and software automation. I’m especially passionate about creating clean and intuitive interfaces, while also exploring the power of back-end logic and data management.
 
 <div align="center">
   <a href="https://github.com/Gzmartins">
