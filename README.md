@@ -1,28 +1,92 @@
-### Hi, I'm Guilherme, welcome to my profile 👋
-I'm an 19-year-old programming enthusiast from Rio de Janeiro, Brazil, currently studying Analysis and Systems Development and working on real-world projects that involve Python, SQL, HTML, CSS and JavaScript.
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+</p>
 
-My journey began with a curiosity for how websites and systems work, and today, I'm building solid foundations in both Front-end development and software automation. I’m especially passionate about creating clean and intuitive interfaces, while also exploring the power of back-end logic and data management.
+<h1 align="center">
+  <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.gif" width="30"/> E aí! Eu sou o Guilherme
+</h1>
+
+<p align="center">
+  💻 Desenvolvedor em formação • 🤖 Apaixonado por Automação & IA • 📍 Rio de Janeiro - Brasil
+</p>
+
+---
+
+### ✨ Sobre mim
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, com 19 anos, e atualmente trabalho como **estagiário em Análise de Dados na Marca Corretora de Seguros**, onde desenvolvo automações, interpreto dados e otimizo processos com Python, Excel e web scraping.
+
+Eu acho muito interessante transformar tarefas manuais em **soluções automatizadas e inteligentes**, com foco em produtividade, organização de dados e eficiência.
+
+Estou sempre aprendendo, evoluindo e testando novas ideias — principalmente em **automação de processos** e **inteligência artificial aplicada a estudos e negócios**.
+
+---
+
+### 🚀 O que estou estudando atualmente
+
+| Área                        | Conteúdo                                                                 |
+|----------------------------|--------------------------------------------------------------------------|
+| 🤖 **Automação**            | Selenium, RPA, bots de navegação, automação com Excel + Python          |
+| 🧠 **Inteligência Artificial** | OpenAI, LLMs, criação de assistentes pessoais e educacionais            |
+| 💻 **Web & Back-end**       | HTML, CSS, JavaScript, Flask, APIs REST                                 |
+| 📊 **Análise de Dados**     | Python, Pandas, manipulação de planilhas, dashboards com Excel          |
+
+---
+
+### 💼 Experiência Profissional
+
+**Estagiário em Análise de Dados**  
+📍 Marca Corretora de Seguros  
+🗓️ Desde 2024  
+- Desenvolvimento de scripts Python para automação de processos internos  
+- Análise de dados de seguros e sinistralidade  
+- Integração de dados com planilhas e relatórios executivos  
+- Criação de dashboards e atualização de arquivos do Power BI
+
+---
+
+### 🛠️ Tecnologias que uso no dia a dia
 
 <div align="center">
-  <a href="https://github.com/Gzmartins">
-  <img height="150em" src="https://luk4x-github-readme-stats.vercel.app/api?username=Gzmartins&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=Status%20do%20Github&cache_seconds=14400"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gzmartins&layout=compact&langs_count=7&theme=tokyonight"/>
+
+#### 📌 Linguagens
+<img src="https://img.shields.io/badge/-Python-181717?style=for-the-badge&logo=python&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/-JavaScript-181717?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/-SQL-181717?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/-HTML5-181717?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/-CSS3-181717?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/-Sass-181717?style=for-the-badge&logo=sass"/>
+<img src="https://img.shields.io/badge/-Tailwind-181717?style=for-the-badge&logo=tailwindcss"/>
+<img src="https://img.shields.io/badge/-React-181717?style=for-the-badge&logo=react"/>
+
+#### 🧰 Ferramentas
+<img src="https://img.shields.io/badge/-Selenium-181717?style=for-the-badge&logo=selenium"/>
+<img src="https://img.shields.io/badge/-Pandas-181717?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/-OpenAI-181717?style=for-the-badge&logo=openai"/>
+<img src="https://img.shields.io/badge/-VSCode-181717?style=for-the-badge&logo=visualstudiocode"/>
+<img src="https://img.shields.io/badge/-Git-181717?style=for-the-badge&logo=git"/>
+
 </div>
 
-<div align="center">
-  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
-</div> 
+---
 
-### Find out more about me:
-&nbsp;<a href="https://www.linkedin.com/in/guilherme-martins-8a3b7a2b5/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>&nbsp;
-&nbsp;<a href="martinsgpv@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>&nbsp;
-&nbsp;<a href="https://www.instagram.com/gzmartins_/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>&nbsp;
-;
+### 🧠 Projetos feitos por mim 
+
+- 🔁 **Bots com Selenium**: automações para sistemas internos, download de relatórios e organização em Excel  
+- 🤖 **IA para estudo personalizado**: em desenvolvimento, um assistente para revisar conteúdos de Medicina Veterinária  
+- 🧾 **RPA para empresas**: sistemas que economizam horas de trabalho manual por semana  
+- 🧪 **Dashboards dinâmicos**: análise de dados internos com geração automática de planilhas
+
+---
+
+### 📫 Vamos nos conectar?
+
+- [LinkedIn] https://www.linkedin.com/in/guilherme-martins-8a3b7a2b5/
+- E-mail: martinsgpv@gmail.com
+
+---
+
+<p align="center">
+  <img src="https://em-content.zobj.net/source/microsoft-teams/337/rocket_1f680.gif" width="30"/>
+  <b>Buscando crescer profissionalmente, aprendendo com projetos reais e criando soluções com impacto.</b>
+</p>
