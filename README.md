@@ -90,3 +90,9 @@ Estou sempre aprendendo, evoluindo e testando novas ideias — principalmente em
   <img src="https://em-content.zobj.net/source/microsoft-teams/337/rocket_1f680.gif" width="30"/>
   <b>Buscando crescer profissionalmente, aprendendo com projetos reais e criando soluções com impacto.</b>
 </p>
+
+
+  <p align="center">
+  <img height="150em" src="https://luk4x-github-readme-stats.vercel.app/api?username=Gzmartins&theme=midnight-purple&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=Status%20do%20Github&cache_seconds=14400"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gzmartins&layout=compact&langs_count=7&theme=midnight-purple"/>
+</p>
